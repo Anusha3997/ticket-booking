@@ -10,4 +10,3 @@ A clean, testable ticket-booking system that demonstrates **OOP principles** in 
 - Pluggable storage (JSON / SQLite)
 - Multiple payment methods with a common interface
 - CLI app (and optional Flask UI)
-
