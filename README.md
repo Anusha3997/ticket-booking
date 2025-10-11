@@ -1,2 +1,6 @@
-# ticket-booking
-This project is created to enhance my understanding in the OOPS concepts.
+# Ticket Booking (Python, OOP)
+
+A clean, testable ticket-booking system that demonstrates **OOP principles** in Python:
+- Encapsulation, Abstraction, Inheritance, Polymorphism
+- SOLID design
+- Layered architecture (models, services, storage)
